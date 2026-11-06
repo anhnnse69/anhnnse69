@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full-stack Developer | Software Engineering Student</b>
+  <b>Full-stack Developer | Software Engineering</b>
 </p>
 
 <p align="center">
