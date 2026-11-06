@@ -1,15 +1,75 @@
-# 💫 About Me:
-### Hi there 👋, I'm Anh (anhnnse69)<br><br><img align="right" src="https://komarev.com/ghpvc/?username=anhnnse69&color=blueviolet&style=flat-square" alt="Profile views" /><br><br>Welcome to my GitHub profile! I am a passionate developer who loves building things and constantly learning new technologies. <br><br>---<br><br>### 🚀 About Me<br>- 🔭 **I’m currently working on:** Full-stack web applications and improving system performance.<br>- 🌱 **I’m currently learning:** Advanced system design, cloud architecture, and modern web frameworks.<br>- 👯 **I’m looking to collaborate on:** Open-source projects and innovative web/mobile applications.<br>- 🤝 **I’m looking for help with:** Best practices in scalable software architecture and UI/UX design.<br>- 💬 **Ask me about:** JavaScript, TypeScript, Node.js, and web development.<br>- ⚡ **Fun fact:** I can spend hours debugging a single line of code, only to realize it was a missing semicolon! 😉<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br><p><br>  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,git,github,vscode" alt="Tech Stack" /><br></p><br><br>---<br><br>### 📈 GitHub Stats<br><p><br>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhnnse69&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /><br></p><br><p><br>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnnse69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /><br></p>
+# 👋 Hi there, I'm Anh!
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nhat_Anh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nhat_Anh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nhat_Anh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nhat_Anh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>Full-stack Developer | Software Engineering Student</b>
+</p>
+
+<p align="center">
+  Passionate about building software, exploring new technologies, and turning ideas into real-world applications.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nhat_Anh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 **Currently working on:** Full-stack web applications and improving system performance.
+- 🌱 **Currently learning:** System Design, Cloud Architecture, and Software Engineering best practices.
+- 👯 **Looking to collaborate on:** Open-source projects and innovative web/mobile applications.
+- 🤝 **Interested in:** Scalable software architecture, clean code, and UI/UX design.
+- 💬 **Ask me about:** Java, C#, JavaScript, Node.js, and Web Development.
+- ⚡ **Fun fact:** I can spend hours debugging a single line of code, only to discover a tiny typo! 😉
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,dart,cpp,c,python,php,powershell" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,antd" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,spring,hibernate,prisma" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlserver" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,visualstudio,npm,flutter,markdown" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhnnse69&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Nhat_Anh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day! 🚀</i>
+</p>
