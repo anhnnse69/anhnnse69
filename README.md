@@ -142,14 +142,9 @@ flowchart LR
   <img src="https://streak-stats.demolab.com/?user=anhnnse69&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
 </p>
 
-<!--
-  Optional: contribution snake (needs the workflow file snake.yml to run once).
-  Uncomment after the "output" branch exists.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/anhnnse69/anhnnse69/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
--->
 
 ---
 
