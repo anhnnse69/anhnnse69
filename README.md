@@ -35,21 +35,6 @@ anh@dev:~$ _
 
 ---
 
-## 🧭 How I Build Things
-
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[🧩 Design]
-    B --> C[⌨️ Code]
-    C --> D{🐞 Bug?}
-    D -- "yes (probably a typo)" --> C
-    D -- no --> E([🚀 Ship])
-    E --> F[📈 Improve]
-    F -.-> A
-```
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
