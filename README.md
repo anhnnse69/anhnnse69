@@ -11,6 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=anhnnse69&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/anhnnse69?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20collab-a78bfa?style=for-the-badge&labelColor=0f0c29" />
+  <a href="https://anhnnse69.id.vn/"><img src="https://img.shields.io/badge/Portfolio-anhnnse69.id.vn-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0c29" /></a>
 </p>
 
 ---
@@ -26,6 +27,7 @@ anh@dev:~$ cat now.txt
 🌱 learning   → System Design, Cloud Architecture, Best Practices
 👯 open to    → open-source & innovative web/mobile projects
 💬 ask me     → Java · C# · JavaScript · Node.js · Web Dev
+🌐 portfolio  → https://anhnnse69.id.vn/
 
 anh@dev:~$ fortune
 "Spent 3 hours debugging. The bug was a typo." 😉
@@ -151,9 +153,14 @@ anh@dev:~$ _
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://anhnnse69.id.vn/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/anhnnse69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anhnguyen69se"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nhatanhnguyen69.se@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  🌐 <b>Check out my portfolio:</b> <a href="https://anhnnse69.id.vn/">anhnnse69.id.vn</a>
 </p>
 
 <p align="center">
